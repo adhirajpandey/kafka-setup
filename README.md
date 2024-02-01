@@ -1,10 +1,11 @@
 # kafka-setup
 
 ## Overview
-Contains files for running kafka and zookeeper in containerized environment and basic demonstration for its working.
+Contains files for running kafka and zookeeper in containerized environment and its basic demonstration using kafka-python
 
 ## Description
 `producer.py` - simulates a simple order with its details
+
 `consumer.py` - simulates a order/transaction validation service
 
 ## Setup
